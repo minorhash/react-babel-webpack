@@ -1,4 +1,4 @@
 dir=$(pwd)
-str=${dir: -4}
+str=${dir: -19}
 echo $str
 git add .
